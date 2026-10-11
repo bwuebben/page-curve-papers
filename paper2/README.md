@@ -2,7 +2,9 @@
 
 ## Phase Transitions, Critical Phenomena, and Finite-Size Broadening
 
-Paper II · **Bernd Johannes Wuebben** · 10 October 2026 · **41 pages**
+Paper II · **Bernd Johannes Wuebben** · **41 pages**
+
+Original date: **11 February 2026** · This version: **10 October 2026**
 
 [Current PDF](page-curve-higher-dimensions.pdf) · [LaTeX source](main.tex) · [Series overview](../README.md) · [SSRN record](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372978)
 
