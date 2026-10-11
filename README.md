@@ -36,7 +36,7 @@ The builds leave the published PDFs unchanged. Alternatively, run `latexmk -pdf 
 
 ## Versions and citation
 
-The PDFs linked above are the current versions in this repository. The existing SSRN records for [Paper I](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372958), [Paper II](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372978), and [Paper III](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6521478) are linked in their guides; repository and SSRN versions may differ. Paper IV is provided here as a research tutorial manuscript.
+The PDFs linked above are the current versions in this repository. Papers [I](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372958), [II](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372978), and [III](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6521478) are also available on SSRN, where the author uploaded the revised manuscripts on 11 October 2026. Paper IV is provided here as a research tutorial manuscript.
 
 For a fixed version, use a link containing the Git commit identifier in place of `main`. [SHA256SUMS](SHA256SUMS) records the distributed manuscript PDF hashes. Cite the full title, author, year, and version date shown in the relevant manuscript.
 
