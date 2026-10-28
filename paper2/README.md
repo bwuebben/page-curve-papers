@@ -6,7 +6,7 @@ Paper II · **Bernd Johannes Wuebben** · **41 pages**
 
 Original date: **11 February 2026** · This version: **10 October 2026**
 
-[Current PDF](page-curve-higher-dimensions.pdf) · [LaTeX source](main.tex) · [Series overview](../README.md) · [SSRN record](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372978)
+[Current PDF](page-curve-higher-dimensions.pdf) · [LaTeX source](main.tex) · [Series overview](../README.md) · [SSRN record](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372978) · [Paper page](https://bwuebben.github.io/papers/page-curve-higher-dimensions/)
 
 Thermodynamic fluctuations round an entanglement transition. Away from criticality a Gaussian approximation often gives its leading profile; at a charged AdS critical point that approximation fails. This paper derives the finite-size replacement in a canonical random-pure-state model whose density of states is given by the Reissner–Nordström–AdS entropy.
 

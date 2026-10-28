@@ -2,9 +2,11 @@
 
 ## An Order-One Correction to the Diagonal Approximation
 
-Paper I · **Bernd Johannes Wuebben** · 9 October 2026 · **45 pages**
+Paper I · **Bernd Johannes Wuebben** · **45 pages**
 
-[Current PDF](page-curve-transition.pdf) · [LaTeX source](main.tex) · [Series overview](../README.md) · [SSRN record](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372958)
+Original date: **11 February 2026** · This version: **9 October 2026**
+
+[Current PDF](page-curve-transition.pdf) · [LaTeX source](main.tex) · [Series overview](../README.md) · [SSRN record](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6372958) · [Paper page](https://bwuebben.github.io/papers/page-curve-transition/)
 
 The diagonal approximation averages fixed-area entropies over a fluctuating black-hole area. This paper compares its level-resolved form with the exact planar radiation spectrum in the west-coast model of black-hole evaporation.
 

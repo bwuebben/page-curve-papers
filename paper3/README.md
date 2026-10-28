@@ -2,9 +2,11 @@
 
 ## Universality, Ensemble Dependence, and Microscopic Ambiguity in Black Hole Information Recovery
 
-Paper III · **Bernd Johannes Wuebben** · 10 October 2026 · **44 pages**
+Paper III · **Bernd Johannes Wuebben** · **44 pages**
 
-[Current PDF](page-curve-not-enough.pdf) · [LaTeX source](main.tex) · [Series overview](../README.md) · [SSRN record](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6521478)
+Original date: **4 April 2026** · This version: **10 October 2026**
+
+[Current PDF](page-curve-not-enough.pdf) · [LaTeX source](main.tex) · [Series overview](../README.md) · [SSRN record](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6521478) · [Paper page](https://bwuebben.github.io/papers/page-curve-not-enough/)
 
 A Page curve constrains radiation entanglement, but the inference about microscopic information recovery depends on which states, ensembles, and channels have been specified. This paper examines the distinction through exact finite-dimensional examples and controlled random-state limits.
 

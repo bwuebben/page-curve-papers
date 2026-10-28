@@ -2,9 +2,11 @@
 
 ## A Guide to the Page Curve and Beyond
 
-Paper IV · **Bernd Johannes Wuebben** · 10 October 2026 · **131 pages**
+Paper IV · **Bernd Johannes Wuebben** · **131 pages**
 
-[Current PDF](hawking-to-marchenko-pastur.pdf) · [LaTeX source](main.tex) · [Series overview](../README.md)
+Original date: **5 April 2026** · This version: **10 October 2026**
+
+[Current PDF](hawking-to-marchenko-pastur.pdf) · [LaTeX source](main.tex) · [Series overview](../README.md) · [Zenodo record](https://zenodo.org/records/23643250) · [Paper page](https://bwuebben.github.io/papers/hawking-to-marchenko-pastur/)
 
 A self-contained tutorial on the Page-curve program, from quantum entanglement and Hawking radiation to holographic entropy, replica wormholes, and random matrix theory. It introduces the background for Papers I–III and develops the distinctions needed to interpret their results.
 
